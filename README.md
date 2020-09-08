@@ -1,2 +1,0 @@
-# is-class
-# is-class
